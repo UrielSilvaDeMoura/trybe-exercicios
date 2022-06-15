@@ -12,14 +12,20 @@
 
 .baloon {
     width: 150px;
+    /*largura da imagem*/
     position: absolute;
+    /*posição da imagem em relação aos outros elementos: a frente ou atrás de outra imagem por exemplo*/
     left: 150px;
+    /*espaço a esquerda da imagem*/
     top: 80px;
+    /*espaço acima da imagem*/
     z-index: 1;
+    /*ordem de posicionameto da imagem em relação a outra*/
 }
 
 .speach {
     font-size: 13px;
+    /*tamanho da fonte*/
     position: absolute;
     top: 92px;
     left: 160px;

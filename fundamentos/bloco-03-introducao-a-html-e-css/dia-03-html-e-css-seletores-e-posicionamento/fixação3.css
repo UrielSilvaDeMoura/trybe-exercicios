@@ -1,0 +1,20 @@
+h1, p {
+    text-align: center; /*alinhamento do texto*/
+}
+
+li:hover {
+    background-color: chartreuse; /*cor de fundo ao passar o mouse*/
+}
+
+li:active {
+    color: orange; /*cor ao clicar no texto*/
+}
+
+ol, ul {
+    list-style: none; /*retirar o ponto ou numeração dos itens da lista*/
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} /*alteração na cor de fundo e fonte da paǵina*/
