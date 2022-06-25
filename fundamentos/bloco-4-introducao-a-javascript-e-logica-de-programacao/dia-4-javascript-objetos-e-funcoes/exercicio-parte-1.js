@@ -8,5 +8,9 @@ let info = {
 
   info.recorrente ='sim';
 
-  console.log(info);
+  //console.log(info);
+
+for (let chave in info){
+    console.log(chave);
+}
 
